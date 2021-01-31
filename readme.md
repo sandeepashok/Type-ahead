@@ -2,7 +2,7 @@
 
 <h1 align="center">COUNTER</h1>
 <h3 align="center">
-    <a href="https://hexcolorgenerator-app.netlify.app/">
+    <a href="https://type-ahead-app.netlify.app/">
       >>Demo<<
     </a>   
 </h3>
