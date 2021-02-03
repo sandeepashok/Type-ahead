@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">COUNTER</h1>
+<h1 align="center">TYPE-AHEAD</h1>
 <h3 align="center">
     <a href="https://type-ahead-app.netlify.app/">
       >>Demo<<
